@@ -1,16 +1,21 @@
-## Hi there 👋
+Hello, I'm Esteban LEVY 👋
+I'm a student training at Holberton School, currently learning the C language and a solid grounding in programming and algorithms.
 
-<!--
-**ST-GuY/ST-GuY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
+Passionate about low-level development and deep understanding of how computers work.
 
-Here are some ideas to get you started:
+Curious and motivated, I enjoy taking on challenges and progressing through concrete projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In training to become a competent and rigorous developer
+
+What you'll find in this repo
+My exercises and projects in the C language
+
+Scripts and tools to help me better understand system programming
+
+Resources and personal notes from my training
+
+Contact
+Feel free to contact me or follow me here:
+
+[LinkedIn](https://www.linkedin.com/in/esteban-levy-709036374/)
