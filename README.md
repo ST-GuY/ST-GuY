@@ -1,21 +1,38 @@
-Hello, I'm Esteban LEVY 👋
-I'm a student training at Holberton School, currently learning the C language and a solid grounding in programming and algorithms.
+Esteban LEVY
 
-About me
-Passionate about low-level development and deep understanding of how computers work.
+Étudiant en programmation systèmes à **Holberton School**, spécialisé dans le **langage C** et les algorithmes.
 
-Curious and motivated, I enjoy taking on challenges and progressing through concrete projects.
+🎯 Objectif
 
-In training to become a competent and rigorous developer
+Devenir un développeur **rigoureux et compétent**, capable de concevoir des solutions systèmes fiables et performantes avec une parfaite compréhension du fonctionnement des ordinateurs.
 
-What you'll find in this repo
-My exercises and projects in the C language
+📂 Contenu du dépôt
 
-Scripts and tools to help me better understand system programming
+* **Projets en C** : exercices pratiques, implémentations low-level, mini applications.
+* **Scripts & outils** : utilitaires de compréhension du bas niveau (gestion mémoire, threads, etc.).
+* **Notes personnelles** : ressources, références et retour d’expérience pour chaque exercice.
 
-Resources and personal notes from my training
+🚀 Projets phares
 
-Contact
-Feel free to contact me or follow me here:
+* **Mini compilateur / exécution systèmes** : exercice d’implémentation bas-niveau, inspiré des grands projets open source.
+* **Gestion mémoire manuelle** : démonstrations de malloc/calloc/free, allocation et fragmentation.
+* **Outils de test / benchmarks** : scripts pour mesurer les performances et valider les contraintes systèmes.
 
-[LinkedIn](https://www.linkedin.com/in/esteban-levy-709036374/)
+ 🛠️ Pourquoi ce dépôt ?
+
+* Mise en avant de **compétences low-level**, formatrices pour comprendre les couches basses des systèmes.
+* Illustrations concrètes de méthodes rigoureuses d’apprentissage (architecture, code, tests).
+* Structure claire destinée aux recruteurs et collègues techniques : projets bien documentés, code lisible, README professionnel ([GitHub][2]).
+
+📬 Contact
+
+* GitHub : [github.com/EstebanLEVY](#)
+* LinkedIn : [linkedin.com/in/EstebanLEVY](#)
+* Email : [esteban.levy@exemple.com](mailto:esteban.levy@exemple.com)
+
+💡 À venir
+
+1. Ajout d’un projet de **lecture dynamique de fichiers binaires (ELF)**.
+2. Réalisation d’un **driver simplifié** sous Linux.
+3. Intégration d’un **benchmark comparatif** (GCC vs. Clang) avec résultats.
+
