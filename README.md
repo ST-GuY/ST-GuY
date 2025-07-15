@@ -28,7 +28,7 @@ Devenir un développeur **rigoureux et compétent**, capable de concevoir des so
 
 * GitHub : [github.com/EstebanLEVY](#)
 * LinkedIn : [linkedin.com/in/EstebanLEVY](#)
-* Email : [esteban.levy@exemple.com](mailto:esteban.levy@exemple.com)
+* Email : [esteban.lvy23@gmail.com](#)
 
 💡 À venir
 
